@@ -1,0 +1,11 @@
+src/stories/**
+src/Astro/**
+*.test.*
+*.tests.*
+src/utils/TestUtils/**
+cypress/**
+build/**
+coverage/**
+__mocks__
+serviceWorker.js
+reportWebVitals.js

@@ -1,0 +1,12 @@
+.notification {
+
+  &__show {
+    position: absolute;
+    top: 0;
+  }
+
+  &__hide {
+    position: absolute;
+    top: -4.375rem;
+  }
+}
